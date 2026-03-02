@@ -1,0 +1,3 @@
+Clean GitHub upload folder. Upload everything in this folder.
+
+Bundled ExifTool is provided as exiftool_bundle.zip and extracted by setup_windows.bat.

@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.kmz
+*.log
+Thumbs.db
+.DS_Store
+github_upload_package/
+github_upload_package.zip
+github_upload_ready/
+github_upload_ready.zip
+github_upload_ready_exiftool/
+github_upload_ready_exiftool.zip
+github_upload_final/
+github_upload_final.zip
